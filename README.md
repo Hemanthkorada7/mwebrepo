@@ -8,3 +8,5 @@ Simple Maven Project
 
 This is a Master branch copy
 THIS IS A JENKIN
+
+LINE ONE IS ADDED
